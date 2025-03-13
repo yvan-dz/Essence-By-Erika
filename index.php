@@ -65,12 +65,12 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/erik_aash/">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.tiktok.com/@erikashhh2">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
@@ -91,7 +91,7 @@
                     <div class="row common__row position-relative">
                         <div class="col-xl-2 col-lg-2 col-md-6">
                             <div class="headerarea__logo">
-                            <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                                <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-6 main_menu_wrap">
@@ -100,8 +100,10 @@
                                     <ul>
                                         <li><a href="index.php">Acceuil</a>
                                         </li>
+                                        <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                         <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -146,7 +148,7 @@
                         <div class="header-right-wrap">
                             <div class="col-sm-4 col-5">
                                 <div class="mobile-logo">
-                                <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                                    <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                                 </div>
                             </div>
 
@@ -163,7 +165,7 @@
 
                     <div class="mobile__logo">
                         <a href="index.php">
-                        <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                            <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                         </a>
                     </div>
 
@@ -173,9 +175,13 @@
 
                             <nav>
                                 <ul class="mobile-menu">
-                                    <li><a href="index.php">Acceuil</a></li>
-                                    <li><a href="about.php">A propos</a></li>
-                                    <li><a href="faq.php">FAQs</a></li>
+                                    <li><a href="index.php">Acceuil</a>
+                                    </li>
+                                    <li><a href="hommes.php"> Hommes</a></li>
+                                    <li><a href="femmes.php"> Femmes</a></li>
+                                    <li><a href="unisexe.php"> Unisexe</a></li>
+                                    <li><a href="about.php">A Propos</a> </li>
+                                    <li><a href="faq.php">FAQs</a>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
@@ -192,7 +198,7 @@
             <!-- Mobile Menu end Here -->
         </header>
         <!-- header section end -->
-         
+
         <!-- herobanner__start -->
         <div class="herobanner">
             <div class=" container-fluid hero__fullwidth__spacing">
@@ -201,23 +207,23 @@
 
 
                     <div class="container herobannerarea__slider  slider__default__arrow slider__default__dot">
-                        <div class="herobannerarea__slider__single" >
+                        <div class="herobannerarea__slider__single">
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm col-12 herobanner__text__side">
                                     <div class="herobanner__text__wraper ltn__slide-animation">
                                         <h1 class="herobanner__title herobanner__title__color animated">Parfums Hommes
                                         </h1>
                                         <div class="herobanner__text herobanner__text__color  animated">
-                                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                                            <p>Un sillage puissant et affirmé. Nos parfums pour hommes allient élégance et caractère pour sublimer chaque personnalité avec distinction.</p>
                                         </div>
                                         <div class="herobanner__button herobanner__button__color  animated">
-                                            <a href="#" class="default__button" tabindex="0">Visiter</a>
+                                            <a href="hommes.php" class="default__button" tabindex="0">Visiter</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-3 col-lg-1 col-md-1 col-sm-3 col-12">
                                     <div class="herobanner__img">
-                                        <img src="img/banner/img1.png" alt="" id="banner">
+                                        <img src="img/banner/img2.png" alt="" id="banner">
                                     </div>
                                 </div>
                             </div>
@@ -230,16 +236,16 @@
                                         <h1 class="herobanner__title herobanner__title__color animated">Parfums Femmes
                                         </h1>
                                         <div class="herobanner__text herobanner__text__color  animated">
-                                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                                            <p>Élégance et sensualité en flacon. Découvrez des fragrances envoûtantes qui révèlent votre féminité avec une touche de raffinement intemporel.</p>
                                         </div>
                                         <div class="herobanner__button herobanner__button__color  animated">
-                                            <a href="#" class="default__button" tabindex="0">Visiter</a>
+                                            <a href="femmes.php" class="default__button" tabindex="0">Visiter</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-12">
                                     <div class="herobanner__img">
-                                        <img src="img/banner/img2.png" alt="" id="banner2">
+                                        <img src="img/banner/img3.png" alt="" id="banner2">
                                     </div>
                                 </div>
                             </div>
@@ -252,16 +258,16 @@
                                         <h1 class="herobanner__title herobanner__title__color animated">Parfums Mixtes
                                         </h1>
                                         <div class="herobanner__text herobanner__text__color  animated">
-                                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                                            <p>L’audace sans frontières. Nos parfums unisexes célèbrent la liberté et l’individualité avec des notes équilibrées, à la fois fraîches et intenses.</p>
                                         </div>
                                         <div class="herobanner__button herobanner__button__color  animated">
-                                            <a href="#" class="default__button" tabindex="0">Visiter</a>
+                                            <a href="unisexe.php" class="default__button" tabindex="0">Visiter</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-24">
                                     <div class="herobanner__img">
-                                        <img src="img/banner/img3.png" alt="" id="banner3">
+                                        <img src="img/banner/img4.png" alt="" id="banner3">
                                     </div>
                                 </div>
                             </div>
@@ -339,1258 +345,597 @@
                     <div class="tab-pane fade active show" id="projects__one" role="tabpanel"
                         aria-labelledby="projects__one">
                         <div class="row grid__responsive">
+
+                            <!-- Produit 01 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img4.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img4.jpg" alt="Secondary Image">
                                             </a>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="75ml"
-                                                        data-bs-placement="top">
-                                                        <i class="">75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="100ml"
-                                                        data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="35ml"
-                                                        data-bs-placement="top">
-                                                        <i>35ml</i>
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/05/01">
-                                            <!-- compteur date  -->
-                                        </div>
-
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">One Million - Paco Rabane</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 01</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <del>61.99 €</del>
-                                            <span>51.99 €</span>
+                                            <del>38.00 €</del>
+                                            <span>18.00 €</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Produit 02 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img4.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img4.jpg" alt="Secondary Image">
                                             </a>
-                                        </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
                                         </div>
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">Acqua Di Gio - Armani</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 02</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                            <del>38.00 €</del>
+                                            <span>18.00 €</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Produit 03 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img4.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img4.jpg" alt="Secondary Image">
                                             </a>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sold__out">Epuisé</span>
-                                        </div>
-
-
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">Fahrenheit - Dior</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 03</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                            <del>38.00 €</del>
+                                            <span>18.00 €</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Produit 04 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img2.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img2.jpg" alt="Secondary Image">
                                             </a>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/08/01">
-
-                                        </div>
-
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">The One - D&G</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 04</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <del>72.00 €</del>
-                                            <span>47.00 €</span>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
-                                        </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/06/01">
-                                            <!-- compteur -->
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="#" tabindex="0">Hugo - Hugo Boss</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.00 €</del>
-                                            <span>47.00 €</span>
+                                            <del>35.50 €</del>
+                                            <span>15.50 €</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Produit 12 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img2.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img2.jpg" alt="Secondary Image">
                                             </a>
-                                        </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-
-                                                    </a>
-                                                </li>
-
-                                            </ul>
                                         </div>
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="" tabindex="0">Eau Sauvage - Dior</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 12</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                            <del>35.50 €</del>
+                                            <span>15.50 €</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Produit 15 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img2.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img2.jpg" alt="Secondary Image">
                                             </a>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                        </div>
-
-
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="#" tabindex="0">Roma Uomo - Laura Biagiotti</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 15</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                            <del>35.50 €</del>
+                                            <span>15.50 €</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Produit 16 -->
                             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                                 <div class="grid__wraper">
                                     <div class="grid__wraper__img">
                                         <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img4.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img4.jpg" alt="Secondary Image">
                                             </a>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                            
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-
-
                                     </div>
                                     <div class="grid__wraper__info">
                                         <h3 class="grid__wraper__tittle">
-                                            <a href="" tabindex="0">Le M&acirc;le</a>
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 16</a>
                                         </h3>
                                         <div class="grid__wraper__price">
-                                            <del>72.99 €</del>
-                                            <span>47.99 €</span>
+                                            <del>38.00 €</del>
+                                            <span>18.00 €</span>
                                         </div>
                                     </div>
-
                                 </div>
-                                
                             </div>
-  <div class="row">
+
+                            <!-- Produit 18 (ajouté) -->
+                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                <div class="grid__wraper">
+                                    <div class="grid__wraper__img">
+                                        <div class="grid__wraper__img__inner">
+                                            <a href="#">
+                                                <img class="primary__image" src="img/products/img2.jpg" alt="Primary Image">
+                                                <img class="secondary__image" src="img/products/img2.jpg" alt="Secondary Image">
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="grid__wraper__info">
+                                        <h3 class="grid__wraper__tittle">
+                                            <a href="#">Chogan "Olfazeta" Parfum Nr. 18</a>
+                                        </h3>
+                                        <div class="grid__wraper__price">
+                                            <del>35.50 €</del>
+                                            <span>15.50 €</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="row">
                                 <div class="col-xl-12">
                                     <div class="best__selling__button">
-                                        <a class="default__button" href="#">Tout voir</a>
+                                        <a class="default__button" href="hommes.php">Tout voir</a>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
 
                     <div class="tab-pane fade" id="projects__two" role="tabpanel" aria-labelledby="projects__two">
                         <div class="row">
                             <div class="row grid__responsive">
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+
+                                <!-- Produit 06 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img1.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img1.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="75ml"
-                                                        data-bs-placement="top">
-                                                        <i class="">75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="100ml"
-                                                        data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="35ml"
-                                                        data-bs-placement="top">
-                                                        <i>35ml</i>
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/05/01">
-                                            <!-- compteur date  -->
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">One Million - Paco Rabane</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>61.99 €</del>
-                                            <span>51.99 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 06</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>35.50 €</del>
+                                                <span>15.50 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 07 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img6.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img6.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">Acqua Di Gio - Armani</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 07</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>38.00 €</del>
+                                                <span>18.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 10 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img6.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img6.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sold__out">Epuisé</span>
-                                        </div>
-
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">Fahrenheit - Dior</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 10</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>38.00 €</del>
+                                                <span>18.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 11 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img1.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img1.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/08/01">
-
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">The One - D&G</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.00 €</del>
-                                            <span>47.00 €</span>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
-                                        </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/06/01">
-                                            <!-- compteur -->
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="#" tabindex="0">Hugo - Hugo Boss</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.00 €</del>
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 11</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>35.50 €</del>
+                                                <span>15.50 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 14 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img1.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img1.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="" tabindex="0">Eau Sauvage - Dior</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 14</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>35.50 €</del>
+                                                <span>15.50 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 19 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img6.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img6.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                        </div>
-
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="#" tabindex="0">Roma Uomo - Laura Biagiotti</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 19</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>35.50 €</del>
+                                                <span>15.50 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 22 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img5.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img5.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                            
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-
-                                            </ul>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 22</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>40.00 €</del>
+                                                <span>20.00 €</span>
+                                            </div>
                                         </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="" tabindex="0">Le M&acirc;le</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.99 €</del>
-                                            <span>47.99 €</span>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                              <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="best__selling__button">
-                                        <a class="default__button" href="#">Tout voir</a>
                                     </div>
                                 </div>
+
+                                <!-- Produit 27 -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img3.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img3.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 27</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>39.50 €</del>
+                                                <span>17.50 €</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="best__selling__button">
+                                            <a class="default__button" href="femmes.php">Tout voir</a>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
-                        </div>
                         </div>
                     </div>
 
                     <div class="tab-pane fade" id="projects__three" role="tabpanel" aria-labelledby="projects__three">
                         <div class="row">
                             <div class="row grid__responsive">
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 01 : Chogan "Olfazeta" Parfum Nr. 106 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img8.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img8.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="75ml"
-                                                        data-bs-placement="top">
-                                                        <i class="">75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="100ml"
-                                                        data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" title="35ml"
-                                                        data-bs-placement="top">
-                                                        <i>35ml</i>
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/05/01">
-                                            <!-- compteur date  -->
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">One Million - Paco Rabane</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>61.99 €</del>
-                                            <span>51.99 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 106 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 02 : Chogan "Olfazeta" Parfum Nr. 117 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img8.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img8.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">Acqua Di Gio - Armani</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 117 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 03 : Chogan "Olfazeta" Parfum Nr. 118 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img9.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img9.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sold__out">Epuisé</span>
-                                        </div>
-
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">Fahrenheit - Dior</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 118 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 04 : Chogan "Olfazeta" Parfum Nr. 124 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img8.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img8.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/08/01">
-
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="single-product.html" tabindex="0">The One - D&G</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.00 €</del>
-                                            <span>47.00 €</span>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
-                                        </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-                                        <div class="grid__wraper__countdown" data-countdown="2025/06/01">
-                                            <!-- compteur -->
-                                        </div>
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="#" tabindex="0">Hugo - Hugo Boss</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.00 €</del>
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 124 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 05 : Chogan "Olfazeta" Parfum Nr. 125 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img7.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img7.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="" tabindex="0">Eau Sauvage - Dior</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 125 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 06 : Chogan "Olfazeta" Parfum Nr. 126 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img8.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img8.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top"
-                                                        title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>35ml</i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="new__badge">Nouveau</span>
-                                        </div>
-
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="#" tabindex="0">Roma Uomo - Laura Biagiotti</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <span>47.00 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 126 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                                <div class="grid__wraper">
-                                    <div class="grid__wraper__img">
-                                        <div class="grid__wraper__img__inner">
-                                            <a href="">
-                                                <img class="primary__image" src="img/products/img1.jpg"
-                                                    alt="Primary Image">
-                                                <img class="secondary__image" src="img/products/img2.jpg"
-                                                    alt="Secondary Image">
-                                            </a>
+                                <!-- Produit 07 : Chogan "Olfazeta" Parfum Nr. 127 | Unisex -->
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img8.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img8.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
                                         </div>
-                                        <div class="grid__wraper__icon">
-                                            <ul>
-                                            
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Avec amour">
-                                                        <i class="far fa-heart"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>75ml</i>
-                                                    </a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top">
-                                                        <i>100ml</i>
-                                                    </a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-                                        <div class="grid__wraper__badge">
-                                            <span class="sale__badge">-15%</span>
-                                        </div>
-
-
-
-                                    </div>
-                                    <div class="grid__wraper__info">
-                                        <h3 class="grid__wraper__tittle">
-                                            <a href="" tabindex="0">Le M&acirc;le</a>
-                                        </h3>
-                                        <div class="grid__wraper__price">
-                                            <del>72.99 €</del>
-                                            <span>47.99 €</span>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 127 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
                                         </div>
                                     </div>
-
                                 </div>
+
+                                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                    <div class="grid__wraper">
+                                        <div class="grid__wraper__img">
+                                            <div class="grid__wraper__img__inner">
+                                                <a href="#">
+                                                    <img class="primary__image" src="img/products/img9.jpg" alt="Primary Image">
+                                                    <img class="secondary__image" src="img/products/img9.jpg" alt="Secondary Image">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="grid__wraper__info">
+                                            <h3 class="grid__wraper__tittle">
+                                                <a href="#">Chogan "Olfazeta" Parfum Nr. 128 | Unisex</a>
+                                            </h3>
+                                            <div class="grid__wraper__price">
+                                                <del>72.00 €</del>
+                                                <span>52.00 €</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
 
-                        </div>
+
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="best__selling__button">
-                                        <a class="default__button" href="#">Tout voir</a>
+                                        <a class="default__button" href="unisexe.php">Tout voir</a>
                                     </div>
                                 </div>
                             </div>
@@ -1613,7 +958,7 @@
                                 <h2>Meilleure Offre - Jusqu'&agrave; <span>50%</span></h2>
                             </div>
                             <p>Découvrez notre nouvel arrivage &amp; et obtenez jusqu'&agrave; 50% de réduction</p>
-                            <div class="cowndown__banner__cowndown" data-countdown="2025/03/01">
+                            <div class="cowndown__banner__cowndown" data-countdown="2025/05/01">
                                 <!-- compteur -->
                             </div>
                             <div class="cowndown__banner__button">
@@ -1638,11 +983,8 @@
                     <div class="animate__content__single">
                         <span> Retours acceptés sur 7jours</span>
                     </div>
-                    <div class="animate__content__single animate__content__single--2">
-                        <span> Retours gratuits*</span>
-                    </div>
                     <div class="animate__content__single">
-                        <span> Aucun frais de restockage</span>
+                        <span>Parfum de qualité premium </span>
                     </div>
                     <div class="animate__content__single animate__content__single--2">
                         <span> Satisfaction 100% Garantie</span>
@@ -1654,16 +996,13 @@
                         <span>Support en ligne</span>
                     </div>
                     <div class="animate__content__single">
-                        <span> Retours acceptés sur 7jours</span>
-                    </div>
-                    <div class="animate__content__single animate__content__single--2">
-                        <span> Retours gratuits* </span>
+                        <span> inspirés de vos parfums préférés</span>
                     </div>
                     <div class="animate__content__single">
-                        <span> Aucun frais de restockage</span>
+                        <span>Parfum de qualité premium </span>
                     </div>
                     <div class="animate__content__single animate__content__single--2">
-                        <span> Satisfactions 100% Garantie</span>
+                        <span> Satisfaction 100% Garantie</span>
                     </div>
                     <div class="animate__content__single">
                         <span> Payemments 100% securisés </span>
@@ -1711,7 +1050,7 @@
 
                                 <div class="feature__2__text">
                                     <h4>Service en lignne</h4>
-                                    <p>Disponible 24/7</p>
+                                    <p>Disponible sur WhatsApp et autres réseaux sociaux via la page de contact</p>
                                 </div>
                             </div>
 
@@ -1740,42 +1079,42 @@
 
                     <div class="col-sm-12 column__custom__class">
                         <div class="instagram__img">
-                            <a class="popup__img" href="img/instagram/img1.jpg"> <img src="img/instagram/img1.jpg"
+                            <a class="popup__img" href="img/products/img8.jpg"> <img src="img/products/img8.jpg"
                                     alt="Instagram Gallery Image"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-12 column__custom__class">
                         <div class="instagram__img">
-                            <a class="popup__img" href="img/instagram/img2.jpg"> <img src="img/instagram/img3.jpg"
+                            <a class="popup__img" href="img/products/img2.jpg"> <img src="img/products/img2.jpg"
                                     alt="Instagram Gallery Image"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-12 column__custom__class">
                         <div class="instagram__img">
-                            <a class="popup__img" href="img/instagram/img3.jpg"> <img src="img/instagram/img3.jpg"
+                            <a class="popup__img" href="img/products/img7.jpg"> <img src="img/products/img7.jpg"
                                     alt="Instagram Gallery Image"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-12 column__custom__class">
                         <div class="instagram__img">
-                            <a class="popup__img" href="img/instagram/img4.jpg"> <img src="img/instagram/img4.jpg"
+                            <a class="popup__img" href="img/products/img1.jpg"> <img src="img/products/img1.jpg"
                                     alt="Instagram Gallery Image"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-12 column__custom__class">
                         <div class="instagram__img">
-                            <a class="popup__img" href="img/instagram/img2.jpg"> <img src="img/instagram/img2.jpg"
+                            <a class="popup__img" href="img/products/img10.jpg"> <img src="img/products/img10.jpg"
                                     alt="Instagram Gallery Image"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-12 column__custom__class">
                         <div class="instagram__img">
-                            <a class="popup__img" href="img/instagram/img1.jpg"> <img src="img/instagram/img1.jpg"
+                            <a class="popup__img" href="img/products/img6.jpg"> <img src="img/products/img6.jpg"
                                     alt="Instagram Gallery Image"></a>
                         </div>
                     </div>
@@ -1786,7 +1125,7 @@
         </div>
         <!-- instagram__end -->
 
-        <?php  include "cook.php";?>
+        <?php include "cook.php"; ?>
 
         <!-- footer__section__start -->
         <div class="footer ">
@@ -1797,24 +1136,22 @@
                             <div class="footer__widget">
                                 <h4 class="footer__title">A Propos</h4>
                                 <div class="footer__content">
-                                    <p>Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.</p>
+                                    <p>Découvrez des fragrances uniques qui éveillent les sens et subliment chaque instant. Laissez-vous transporter par des essences raffinées, créées avec passion et savoir-faire. L'élégance à portée de main.</p>
                                 </div>
                                 <div class="footer__social__icon">
                                     <ul>
                                         <li><a target="_blank" title="Facebook-f" href="#"><i
                                                     class="fab fa-facebook-f"></i></a></li>
-                                        <li><a target="_blank" title="Instagram" href="#"><i
+                                        <li><a target="_blank" title="Instagram" href="https://www.instagram.com/erik_aash/"><i
                                                     class="fab fa-instagram"></i></a></li>
-                                        <li><a target="_blank" title="Tiktok" href="#"><i class="fab fa-tiktok"></i></a>
+                                        <li><a target="_blank" title="Tiktok" href="https://www.tiktok.com/@erikashhh2"><i class="fab fa-tiktok"></i></a>
                                         </li>
 
 
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                    <h5>Methodes de payement</h5>
+                                    <h5>Methodes de payement à venir (Pour le moment, veuillez me contacter sur WhatsApp pour opérer les payements, via la page de contact)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>
@@ -1860,10 +1197,10 @@
                             <div class="footer__widget">
                                 <h4 class="footer__title">Catégories</h4>
                                 <div class="footer__menu">
-                                    <ul>
-                                        <li><a href="#">Parfums Hommes</a></li>
-                                        <li><a href="#">Parfums Femmes</a></li>
-                                        <li><a href="#">Parfums mixtes</a></li>
+                                <ul>
+                                    <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1925,7 +1262,7 @@
     <script src="js/fontawesome.min.js "></script>
     <script src="js/plugins.js "></script>
     <script src="js/main.js "></script>
-
+    <?php include "info.php"; ?>
 </body>
 
 </html>

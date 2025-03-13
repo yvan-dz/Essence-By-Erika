@@ -65,12 +65,12 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/erik_aash/">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.tiktok.com/@erikashhh2">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
@@ -91,7 +91,7 @@
                     <div class="row common__row position-relative">
                         <div class="col-xl-2 col-lg-2 col-md-6">
                             <div class="headerarea__logo">
-                            <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                                <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-6 main_menu_wrap">
@@ -100,8 +100,10 @@
                                     <ul>
                                         <li><a href="index.php">Acceuil</a>
                                         </li>
+                                        <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                         <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -146,7 +148,7 @@
                         <div class="header-right-wrap">
                             <div class="col-sm-4 col-5">
                                 <div class="mobile-logo">
-                                <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                                    <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                                 </div>
                             </div>
 
@@ -163,7 +165,7 @@
 
                     <div class="mobile__logo">
                         <a href="index.php">
-                        <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                            <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                         </a>
                     </div>
 
@@ -202,7 +204,7 @@
                             <h1>A Propos</h1>
                             <ul>
                                 <li>
-                                    <a href="#">Acceuil</a>
+                                    <a href="index.php">Acceuil</a>
                                 </li>
                                 <li class="color__blue">
                                     A Propos
@@ -222,17 +224,20 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-12">
                         <div class="about__text">
                             <h2>Qui Sommes Nous</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque labore iure quas fugit,
-                                ducimus obcaecati maxime consectetur expedita cupiditate, modi eligendi odit dicta
-                                incidunt illo id voluptates eaque provident ipsum velit mollitia recusandae hic.
-                                Architecto aspernatur optio voluptas totam omnis doloremque laboriosam laudantium quas
-                                dolores rem, quis, explicabo sed nihil perspiciatis aliquid vitae tempore incidunt.
-                                Voluptatibus voluptatum exercitationem maiores? Culpa.</p>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem deserunt eum facilis
-                                sequi dolores dolorem animi ea? Recusandae quidem explicabo corrupti perferendis odit
-                                nobis, veniam architecto, est doloribus quod alias nesciunt impedit id beatae soluta
-                                quisquam porro, quasi odio deleniti placeat qui! Laborum aperiam cumque, fuga beatae
-                                saepe praesentium repudiandae.</p>
+                            <p>
+                                Chez <strong>Essences by Erika</strong>, chaque fragrance est une invitation au voyage, une empreinte olfactive qui sublime l’instant et réinvente l’élégance.
+                                Passionnée par l’univers du parfum, <strong>Erika</strong> sélectionne avec soin des essences raffinées, pensées pour sublimer chaque personnalité avec audace et délicatesse.
+                            </p>
+                            <p>
+                                Chaque note, chaque accord raconte une histoire, entre tradition et modernité, entre force et sensualité.
+                                Que vous recherchiez une signature olfactive intemporelle ou une essence captivante qui reflète votre singularité, vous trouverez ici une harmonie parfaite entre raffinement et authenticité.
+                            </p>
+                            <p>
+                                Parce que le parfum est bien plus qu’un simple accessoire, <strong>Essences by Erika</strong> vous offre une expérience sensorielle unique, où le luxe devient accessible et l’émotion inoubliable.
+                            </p>
+                            <p class="about__highlight">
+                                ✨ <em>Découvrez votre essence, affirmez votre identité.</em> ✨
+                            </p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12 col-12">
@@ -257,14 +262,10 @@
                             </div>
 
                             <div class="testimonial__info">
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum perspiciatis
-                                    laudantium accusantium hic iste explicabo mollitia, sequi dicta illum quae culpa
-                                    dolores eaque inventore. Quia
-                                    natus nesciunt inventore odit nam animi possimus illo est aliquam, nostrum quae at
-                                    nobis, autem ea! Consequatur, ipsum quidem. Voluptate inventore et alias magni a
-                                    sunt corrupti libero?</p>
-                                <h4>Erika Fokou</h4>
+                                <p>"Le parfum est la mémoire d’un instant, une empreinte invisible qui murmure à l’âme ce que les mots ne peuvent exprimer."</p>
+                                <h4>Jean-Paul Guerlain</h4>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -272,7 +273,7 @@
         </div>
         <!-- testimonial__section__start -->
 
-<?php  include "cook.php";?>
+        <?php include "cook.php"; ?>
 
         <br>
         <!-- footer__section__start -->
@@ -284,24 +285,22 @@
                             <div class="footer__widget">
                                 <h4 class="footer__title">A Propos</h4>
                                 <div class="footer__content">
-                                    <p>Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.</p>
+                                    <p>Découvrez des fragrances uniques qui éveillent les sens et subliment chaque instant. Laissez-vous transporter par des essences raffinées, créées avec passion et savoir-faire. L'élégance à portée de main.</p>
                                 </div>
                                 <div class="footer__social__icon">
                                     <ul>
                                         <li><a target="_blank" title="Facebook-f" href="#"><i
                                                     class="fab fa-facebook-f"></i></a></li>
-                                        <li><a target="_blank" title="Instagram" href="#"><i
+                                        <li><a target="_blank" title="Instagram" href="https://www.instagram.com/erik_aash/"><i
                                                     class="fab fa-instagram"></i></a></li>
-                                        <li><a target="_blank" title="Tiktok" href="#"><i class="fab fa-tiktok"></i></a>
+                                        <li><a target="_blank" title="Tiktok" href="https://www.tiktok.com/@erikashhh2"><i class="fab fa-tiktok"></i></a>
                                         </li>
 
 
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                    <h5>Methodes de payement</h5>
+                                    <h5>Methodes de payement à venir (Pour le moment, veuillez me contacter sur WhatsApp pour opérer les payements, via la page de contact)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>
@@ -348,9 +347,9 @@
                                 <h4 class="footer__title">Catégories</h4>
                                 <div class="footer__menu">
                                     <ul>
-                                        <li><a href="#">Parfums Hommes</a></li>
-                                        <li><a href="#">Parfums Femmes</a></li>
-                                        <li><a href="#">Parfums mixtes</a></li>
+                                        <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                     </ul>
                                 </div>
                             </div>

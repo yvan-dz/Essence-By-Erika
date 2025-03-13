@@ -58,7 +58,7 @@
                     </div>
                     <div class="col-xl-5 col-lg-5">
                         <div class="header__topbar__right">
-                            <div class="header__topbar__social__icon">
+                        <div class="header__topbar__social__icon">
                                 <ul>
                                     <li>
                                         <a href="#">
@@ -66,12 +66,12 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/erik_aash/">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.tiktok.com/@erikashhh2">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
@@ -98,11 +98,13 @@
                         <div class="col-xl-7 col-lg-7 col-md-6 main_menu_wrap">
                             <div class="headerarea__main__menu ">
                                 <nav>
-                                    <ul>
+                                <ul>
                                         <li><a href="index.php">Acceuil</a>
                                         </li>
+                                        <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                         <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -203,7 +205,7 @@
                             <h1>Contact</h1>
                             <ul>
                                 <li>
-                                    <a href="#">Acceuil</a>
+                                    <a href="index.php">Acceuil</a>
                                 </li>
                                 <li class="color__blue">
                                     Contact
@@ -260,24 +262,22 @@
                             <div class="footer__widget">
                                 <h4 class="footer__title">A Propos</h4>
                                 <div class="footer__content">
-                                    <p>Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.</p>
+                                    <p>Découvrez des fragrances uniques qui éveillent les sens et subliment chaque instant. Laissez-vous transporter par des essences raffinées, créées avec passion et savoir-faire. L'élégance à portée de main.</p>
                                 </div>
                                 <div class="footer__social__icon">
                                     <ul>
                                         <li><a target="_blank" title="Facebook-f" href="#"><i
                                                     class="fab fa-facebook-f"></i></a></li>
-                                        <li><a target="_blank" title="Instagram" href="#"><i
+                                        <li><a target="_blank" title="Instagram" href="https://www.instagram.com/erik_aash/"><i
                                                     class="fab fa-instagram"></i></a></li>
-                                        <li><a target="_blank" title="Tiktok" href="#"><i class="fab fa-tiktok"></i></a>
+                                        <li><a target="_blank" title="Tiktok" href="https://www.tiktok.com/@erikashhh2"><i class="fab fa-tiktok"></i></a>
                                         </li>
 
 
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                    <h5>Methodes de payement</h5>
+                                <h5>Methodes de payement à venir (Pour le moment, veuillez me contacter sur WhatsApp pour opérer les payements, via la page de contact)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>

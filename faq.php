@@ -66,12 +66,12 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/erik_aash/">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.tiktok.com/@erikashhh2">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
@@ -93,7 +93,7 @@
                     <div class="row common__row position-relative">
                         <div class="col-xl-2 col-lg-2 col-md-6">
                             <div class="headerarea__logo">
-                            <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                                <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-6 main_menu_wrap">
@@ -102,8 +102,10 @@
                                     <ul>
                                         <li><a href="index.php">Acceuil</a>
                                         </li>
+                                        <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                         <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -148,7 +150,7 @@
                         <div class="header-right-wrap">
                             <div class="col-sm-4 col-5">
                                 <div class="mobile-logo">
-                                <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                                    <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                                 </div>
                             </div>
 
@@ -165,7 +167,7 @@
 
                     <div class="mobile__logo">
                         <a href="index.php">
-                        <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
+                            <img src="https://noble-nectar.com/cdn/shop/files/logo_neu_flakon_33cfeec4-5a8e-4ca8-80c0-1530d2cb1e5d.png?v=1731871577&width=270" alt="logo" width="100" height="70">
                         </a>
                     </div>
 
@@ -204,7 +206,7 @@
                             <h1>Faq</h1>
                             <ul>
                                 <li>
-                                    <a href="#">Acceuil</a>
+                                    <a href="index.php">Acceuil</a>
                                 </li>
                                 <li class="color__blue">
                                     Faqs
@@ -226,46 +228,54 @@
                             <h2 class="">FAQs</h2>
                         </div>
                         <div class="accordion" id="accordionExample">
+                            
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Lorem ipsum dolor sit amet consectetur.
+                                        Quels sont les moyens de paiement disponibles ?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione accusantium dolorum ex totam sed rem velit unde, voluptates quos eaque odit numquam nesciunt eligendi quibusdam molestiae quod modi nulla adipisci, voluptatem provident incidunt maxime consequuntur? Adipisci assumenda odit dicta repellat vitae! Et quaerat, distinctio est optio unde temporibus maiores, neque accusantium fugiat consectetur dicta aspernatur cumque voluptatibus incidunt eos, reiciendis magnam? Tempore deserunt expedita, reprehenderit provident consequuntur quaerat cupiditate molestiae?
+                                        Pour le moment, les commandes se règlent uniquement via
+                                        <strong>WhatsApp</strong>. Toutefois, d'autres moyens de paiement seront bientôt disponibles
+                                        pour faciliter vos achats.
                                     </div>
                                 </div>
                             </div>
+
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Lorem ipsum dolor sit amet consectetur.
+                                        Je ne m’y connais pas en parfums, comment choisir ?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, commodi tenetur! Non iure quos architecto totam, doloremque provident ipsam, perferendis illum sapiente praesentium voluptatibus necessitatibus tempora culpa accusamus iste voluptatum amet eum explicabo atque commodi dicta cupiditate deleniti voluptatem? Excepturi, repellat in saepe vero modi laudantium? Dicta delectus perferendis provident.
+                                        Pas d’inquiétude ! Contactez-moi directement sur
+                                        <strong>WhatsApp</strong>, et je vous guiderai pour trouver la fragrance
+                                        qui vous correspond parfaitement.
                                     </div>
                                 </div>
                             </div>
+
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi!
+                                        Comment savoir si un parfum est en stock ?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo voluptate voluptatem harum soluta. Aperiam earum at possimus sequi soluta ex totam delectus illo eaque? Nisi eaque incidunt voluptatibus quibusdam. Amet nihil ullam velit eum ipsum, nemo, porro labore ratione repudiandae dolore dolores. Sunt quo adipisci itaque quasi repellendus minus porro vero! Odio animi possimus aliquid quos laudantium eveniet totam sed.
+                                        Pour vérifier la disponibilité d’un parfum, envoyez-moi un message sur mes
+                                        <strong>réseaux sociaux</strong> et je vous informerai en temps réel des stocks.
                                     </div>
                                 </div>
                             </div>
@@ -275,19 +285,74 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseFour" aria-expanded="false"
                                         aria-controls="collapseFour">
-                                        Lorem ipsum dolor sit amet consectetur.
+                                        Où puis-je en apprendre plus sur Erika ?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nisi libero illum, minus pariatur laborum explicabo aperiam expedita laboriosam temporibus atque et blanditiis deleniti autem veritatis exercitationem eveniet, in, esse corrupti sequi! Possimus quisquam quas dolor explicabo repellat delectus harum sunt, consectetur, aliquam est fugiat impedit quaerat unde facilis odio laudantium nulla vero molestiae amet? Quae, consequatur nemo! Eius, voluptatum.
+                                        Pour en savoir plus sur <strong>Erika</strong>, suivez-moi sur
+                                        <strong>TikTok</strong> et retrouvez tous mes contenus via les liens de mes
+                                        réseaux sociaux disponibles sur le site.
                                     </div>
                                 </div>
                             </div>
 
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        Je ne trouve pas mon parfum préféré sur le site, que faire ?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse"
+                                    aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Aucun souci ! J’ai bien plus de références en stock que celles affichées sur le site.
+                                        <strong>Contactez-moi</strong>, je vous proposerai d’autres choix adaptés à vos préférences.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+    <h2 class="accordion-header" id="headingSix">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseSix" aria-expanded="false"
+            aria-controls="collapseSix">
+            Vos parfums tiennent-ils aussi bien que les grandes marques ?
+        </button>
+    </h2>
+    <div id="collapseSix" class="accordion-collapse collapse"
+        aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+            Absolument ! Nos parfums sont formulés avec une 
+            <strong>concentration élevée en huiles essentielles</strong>, garantissant une 
+            <strong>tenue longue durée</strong> comparable aux grandes maisons de parfumerie.
+        </div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingSeven">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseSeven" aria-expanded="false"
+            aria-controls="collapseSeven">
+            Puis-je retourner un parfum si je ne l’aime pas ?
+        </button>
+    </h2>
+    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+        data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+            Pour des raisons d’hygiène, nous n’acceptons 
+            <strong>pas les retours de flacons ouverts</strong>. Cependant, si votre parfum est encore 
+            <strong>scellé</strong>, vous pouvez nous le retourner sous <strong>14 jours</strong> après réception 
+            pour un échange ou un remboursement.
+        </div>
+    </div>
+</div>
 
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -302,7 +367,7 @@
                         <div class="single__product__contact__text text-center">
                             <h2>Si vous avez d'autres questions bien vouloir nous contacter</h2>
                             <div class="single__product__contact__button">
-                                <a href="contact.php" class="default__button">Contact</a>
+                                <a href="https://wa.me/+4917632797790" class="default__button">Contact</a>
                             </div>
                             <h3 class="single__product__contact__number"><i class="fas fa-phone"></i> </h3>
                         </div>
@@ -312,7 +377,7 @@
         </div>
         <!-- contact__section__end  -->
 
-        <?php  include "cook.php";?>
+        <?php include "cook.php"; ?>
 
         <!-- footer__section__start -->
         <div class="footer ">
@@ -323,24 +388,22 @@
                             <div class="footer__widget">
                                 <h4 class="footer__title">A Propos</h4>
                                 <div class="footer__content">
-                                    <p>Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet
-                                        consectetur.Lorem ipsum dolor sit amet consectetur.</p>
+                                    <p>Découvrez des fragrances uniques qui éveillent les sens et subliment chaque instant. Laissez-vous transporter par des essences raffinées, créées avec passion et savoir-faire. L'élégance à portée de main.</p>
                                 </div>
                                 <div class="footer__social__icon">
                                     <ul>
                                         <li><a target="_blank" title="Facebook-f" href="#"><i
                                                     class="fab fa-facebook-f"></i></a></li>
-                                        <li><a target="_blank" title="Instagram" href="#"><i
+                                        <li><a target="_blank" title="Instagram" href="https://www.instagram.com/erik_aash/"><i
                                                     class="fab fa-instagram"></i></a></li>
-                                        <li><a target="_blank" title="Tiktok" href="#"><i class="fab fa-tiktok"></i></a>
+                                        <li><a target="_blank" title="Tiktok" href="https://www.tiktok.com/@erikashhh2"><i class="fab fa-tiktok"></i></a>
                                         </li>
 
 
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                    <h5>Methodes de payement</h5>
+                                    <h5>Methodes de payement à venir (Pour le moment, veuillez me contacter sur WhatsApp pour opérer les payements, via la page de contact)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>
@@ -387,9 +450,9 @@
                                 <h4 class="footer__title">Catégories</h4>
                                 <div class="footer__menu">
                                     <ul>
-                                        <li><a href="#">Parfums Hommes</a></li>
-                                        <li><a href="#">Parfums Femmes</a></li>
-                                        <li><a href="#">Parfums mixtes</a></li>
+                                        <li><a href="hommes.php"> Hommes</a></li>
+                                        <li><a href="femmes.php"> Femmes</a></li>
+                                        <li><a href="unisexe.php"> Unisexe</a></li>
                                     </ul>
                                 </div>
                             </div>

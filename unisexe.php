@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Essences by Erika - Parfums Hommes</title>
+    <title>Essences by Erika - Parfums Femmes</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -61,7 +61,7 @@
                     </div>
                     <div class="col-xl-5 col-lg-5">
                         <div class="header__topbar__right">
-                            <div class="header__topbar__social__icon">
+                        <div class="header__topbar__social__icon">
                                 <ul>
                                     <li>
                                         <a href="#">
@@ -106,7 +106,7 @@
                                         </li>
                                         <li><a href="hommes.php"> Hommes</a></li>
                                         <li><a href="femmes.php"> Femmes</a></li>
-                                        <li><a href="unisexe.php"> Unisexe</a></li>
+                                        <li><a href="femmes.php"> Unisexe</a></li>
                                         <li><a href="about.php">A Propos</a> </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -179,14 +179,14 @@
 
                             <nav>
                                 <ul class="mobile-menu">
-                                    < <li><a href="index.php">Acceuil</a>
-                                        </li>
-                                        <li><a href="hommes.php"> Hommes</a></li>
-                                        <li><a href="femmes.php"> Femmes</a></li>
-                                        <li><a href="unisexe.php"> Unisexe</a></li>
-                                        <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a>
-                                        <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="index.php">Acceuil</a>
+                                    </li>
+                                    <li><a href="hommes.php"> Hommes</a></li>
+                                    <li><a href="femmes.php"> Femmes</a></li>
+                                    <li><a href="femmes.php"> Unisexe</a></li>
+                                    <li><a href="about.php">A Propos</a> </li>
+                                    <li><a href="faq.php">FAQs</a>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
 
@@ -209,13 +209,13 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="breadcrumb__title">
-                            <h1>Hommes</h1>
+                            <h1>Parfums Unisexes</h1>
                             <ul>
                                 <li>
                                     <a href="index.php">Acceuil</a>
                                 </li>
                                 <li class="color__blue">
-                                    Hommes
+                                Parfums Unisexes
                                 </li>
                             </ul>
                         </div>
@@ -229,16 +229,18 @@
         <div class="category sp_bottom_50 sp_top_80">
             <div class="container">
                 <div class="row">
+
+
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img4.jpg" alt="">
+                                <img src="img/products/img10.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 01</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 44</a></h5>
                                 <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
+                                    <del>43.00 €</del>
+                                    <span>23.00 €</span>
                                 </div>
                                 <h6>(100ml)</h6>
                             </div>
@@ -248,42 +250,25 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img4.jpg" alt="">
+                                <img src="img/products/img10.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 02</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 54</a></h5>
                                 <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
+                                    <del>35.50 €</del>
+                                    <span>15.50 €</span>
                                 </div>
                                 <h6>(100ml)</h6>
                             </div>
                         </div>
                     </div>
-
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img4.jpg" alt="">
+                                <img src="img/products/img10.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 03</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 04</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 72</a></h5>
                                 <div class="grid__wraper__price">
                                     <del>35.50 €</del>
                                     <span>15.50 €</span>
@@ -296,141 +281,13 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
+                                <img src="img/products/img10.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 12</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 73</a></h5>
                                 <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 15</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img4.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 16</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 18</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img4.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 20</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 21</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 22</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 30</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 32</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
+                                    <del>43.00 €</del>
+                                    <span>23.00 €</span>
                                 </div>
                                 <h6>(100ml)</h6>
                             </div>
@@ -444,7 +301,7 @@
                                 <img src="img/products/img4.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 33</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 105</a></h5>
                                 <div class="grid__wraper__price">
                                     <del>38.00 €</del>
                                     <span>18.00 €</span>
@@ -457,15 +314,15 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
+                                <img src="img/products/img8.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 37</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 106 | Unisex</a></h5>
                                 <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
                                 </div>
-                                <h6>(100ml)</h6>
+                                <h6>(50ml)</h6>
                             </div>
                         </div>
                     </div>
@@ -473,219 +330,10 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img4.jpg" alt="">
+                                <img src="img/products/img11.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 38</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 48</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 61</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>38.00 €</del>
-                                    <span>18.00 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 52</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 62</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 68</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>47.00 €</del>
-                                    <span>27.00 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 69</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 83</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 84</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 86</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 87</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 88</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 91</a></h5>
-                                <div class="grid__wraper__price">
-                                    <del>35.50 €</del>
-                                    <span>15.50 €</span>
-                                </div>
-                                <h6>(100ml)</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
-                        <div class="category__single category__single__2">
-                            <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
-                            </div>
-                            <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 94</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 110</a></h5>
                                 <div class="grid__wraper__price">
                                     <del>45.50 €</del>
                                     <span>25.50 €</span>
@@ -698,10 +346,10 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
+                                <img src="img/products/img4.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 108</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 114</a></h5>
                                 <div class="grid__wraper__price">
                                     <del>45.50 €</del>
                                     <span>25.50 €</span>
@@ -714,41 +362,160 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
+                                <img src="img/products/img8.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 113</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 117 | Unisex</a></h5>
                                 <div class="grid__wraper__price">
-                                    <del>47.00 €</del>
-                                    <span>27.00 €</span>
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
                                 </div>
-                                <h6>(100ml)</h6>
+                                <h6>(50ml)</h6>
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-
 
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
                         <div class="category__single category__single__2">
                             <div class="category__img__2">
-                                <img src="img/products/img2.jpg" alt="">
+                                <img src="img/products/img9.jpg" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 136</a></h5>
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 118 | Unisex</a></h5>
                                 <div class="grid__wraper__price">
-                                    <del>41.00 €</del>
-                                    <span>21.00 €</span>
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
                                 </div>
-                                <h6>(100ml)</h6>
+                                <h6>(50ml)</h6>
                             </div>
                         </div>
                     </div>
 
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img8.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 124 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img7.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 125 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img8.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 126 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img8.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 127 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img8.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 128 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img7.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 129 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img8.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 141 | Unisex</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>85.00 €</del>
+                                    <span>65.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                        <div class="category__single category__single__2">
+                            <div class="category__img__2">
+                                <img src="img/products/img5.jpg" alt="">
+                            </div>
+                            <div class="category__text category__text__2">
+                                <h5><a href="#">Chogan "Olfazeta" Parfum Nr. 143 Luxury</a></h5>
+                                <div class="grid__wraper__price">
+                                    <del>72.00 €</del>
+                                    <span>52.00 €</span>
+                                </div>
+                                <h6>(50ml)</h6>
+                            </div>
+                        </div>
+                    </div>
 
 
 
@@ -756,8 +523,9 @@
             </div>
         </div>
         <!-- categori__section__end -->
-
+       
         <?php include "cook.php"; ?>
+       
 
         <!-- footer__section__start -->
         <div class="footer ">
@@ -830,7 +598,7 @@
                                 <h4 class="footer__title">Catégories</h4>
                                 <div class="footer__menu">
                                     <ul>
-                                        <li><a href="hommes.php"> Hommes</a></li>
+                                    <li><a href="hommes.php"> Hommes</a></li>
                                         <li><a href="femmes.php"> Femmes</a></li>
                                         <li><a href="unisexe.php"> Unisexe</a></li>
                                     </ul>
@@ -895,7 +663,6 @@
     <script src="js/main.js "></script>
     <script src="js/seemore.js "></script>
     <?php include "info.php"; ?>
-    
 </body>
 
 </html>
