@@ -179,14 +179,14 @@
 
                             <nav>
                                 <ul class="mobile-menu">
-                                    < <li><a href="index.php">Acceuil</a>
-                                        </li>
-                                        <li><a href="hommes.php"> Hommes</a></li>
-                                        <li><a href="femmes.php"> Femmes</a></li>
-                                        <li><a href="unisexe.php"> Unisexe</a></li>
-                                        <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a>
-                                        <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="index.php">Acceuil</a>
+                                    </li>
+                                    <li><a href="hommes.php"> Hommes</a></li>
+                                    <li><a href="femmes.php"> Femmes</a></li>
+                                    <li><a href="unisexe.php"> Unisexe</a></li>
+                                    <li><a href="about.php">A Propos</a> </li>
+                                    <li><a href="faq.php">FAQs</a>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
 
@@ -783,7 +783,7 @@
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                <h5>Methodes de payement (à venir)</h5>
+                                    <h5>Methodes de payement (à venir)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>
@@ -895,7 +895,7 @@
     <script src="js/main.js "></script>
     <script src="js/seemore.js "></script>
     <?php include "info.php"; ?>
-    
+
 </body>
 
 </html>
