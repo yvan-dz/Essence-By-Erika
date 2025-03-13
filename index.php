@@ -223,7 +223,7 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-1 col-md-1 col-sm-3 col-12">
                                     <div class="herobanner__img">
-                                        <img src="img/banner/img2.png" alt="" id="banner">
+                                        <img src="img/banner/img1.png" alt="" id="banner">
                                     </div>
                                 </div>
                             </div>
@@ -1151,7 +1151,7 @@
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                    <h5>Methodes de payement à venir (Pour le moment, veuillez me contacter sur WhatsApp pour opérer les payements, via la page de contact)</h5>
+                                    <h5>Methodes de payement (à venir)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>

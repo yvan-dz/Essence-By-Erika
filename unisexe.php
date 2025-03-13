@@ -551,7 +551,7 @@
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                <h5>Methodes de payement à venir (Pour le moment, veuillez me contacter sur WhatsApp pour opérer les payements, via la page de contact)</h5>
+                                <h5>Methodes de payement (à venir)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>
