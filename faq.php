@@ -176,16 +176,13 @@
                         <div class="mobile-navigation">
 
                             <nav>
-                            <ul>
-                                        <li><a href="index.php">Acceuil</a>
-                                        </li>
-                                        <li><a href="hommes.php"> Hommes</a></li>
-                                        <li><a href="femmes.php"> Femmes</a></li>
-                                        <li><a href="unisexe.php"> Unisexe</a></li>
-                                        <li><a href="about.php">A Propos</a> </li>
-                                        <li><a href="faq.php">FAQs</a> </li>
-                                        <li><a href="contact.php">Contact</a></li>
-                                    </ul>
+                                <li><a href="index.php">Acceuil</a> </li>
+                                <li><a href="hommes.php"> Hommes</a></li>
+                                <li><a href="femmes.php"> Femmes</a></li>
+                                <li><a href="unisexe.php"> Unisexe</a></li>
+                                <li><a href="about.php">A Propos</a> </li>
+                                <li><a href="faq.php">FAQs</a> </li>
+                                <li><a href="contact.php">Contact</a></li>
                             </nav>
 
                         </div>
@@ -232,7 +229,7 @@
                             <h2 class="">FAQs</h2>
                         </div>
                         <div class="accordion" id="accordionExample">
-                            
+
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
@@ -319,41 +316,41 @@
                                 </div>
                             </div>
                             <div class="accordion-item">
-    <h2 class="accordion-header" id="headingSix">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#collapseSix" aria-expanded="false"
-            aria-controls="collapseSix">
-            Vos parfums tiennent-ils aussi bien que les grandes marques ?
-        </button>
-    </h2>
-    <div id="collapseSix" class="accordion-collapse collapse"
-        aria-labelledby="headingSix" data-bs-parent="#accordionExample">
-        <div class="accordion-body">
-            Absolument ! Nos parfums sont formulés avec une 
-            <strong>concentration élevée en huiles essentielles</strong>, garantissant une 
-            <strong>tenue longue durée</strong> comparable aux grandes maisons de parfumerie.
-        </div>
-    </div>
-</div>
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
+                                        Vos parfums tiennent-ils aussi bien que les grandes marques ?
+                                    </button>
+                                </h2>
+                                <div id="collapseSix" class="accordion-collapse collapse"
+                                    aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Absolument ! Nos parfums sont formulés avec une
+                                        <strong>concentration élevée en huiles essentielles</strong>, garantissant une
+                                        <strong>tenue longue durée</strong> comparable aux grandes maisons de parfumerie.
+                                    </div>
+                                </div>
+                            </div>
 
-<div class="accordion-item">
-    <h2 class="accordion-header" id="headingSeven">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#collapseSeven" aria-expanded="false"
-            aria-controls="collapseSeven">
-            Puis-je retourner un parfum si je ne l’aime pas ?
-        </button>
-    </h2>
-    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
-        data-bs-parent="#accordionExample">
-        <div class="accordion-body">
-            Pour des raisons d’hygiène, nous n’acceptons 
-            <strong>pas les retours de flacons ouverts</strong>. Cependant, si votre parfum est encore 
-            <strong>scellé</strong>, vous pouvez nous le retourner sous <strong>14 jours</strong> après réception 
-            pour un échange ou un remboursement.
-        </div>
-    </div>
-</div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseSeven" aria-expanded="false"
+                                        aria-controls="collapseSeven">
+                                        Puis-je retourner un parfum si je ne l’aime pas ?
+                                    </button>
+                                </h2>
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Pour des raisons d’hygiène, nous n’acceptons
+                                        <strong>pas les retours de flacons ouverts</strong>. Cependant, si votre parfum est encore
+                                        <strong>scellé</strong>, vous pouvez nous le retourner sous <strong>14 jours</strong> après réception
+                                        pour un échange ou un remboursement.
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
 
@@ -407,7 +404,7 @@
                                     </ul>
                                 </div>
                                 <div class="footer__bottom">
-                                <h5>Methodes de payement (à venir)</h5>
+                                    <h5>Methodes de payement (à venir)</h5>
                                     <div class="footer__img">
                                         <ul>
                                             <li>
