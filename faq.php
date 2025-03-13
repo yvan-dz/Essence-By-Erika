@@ -176,13 +176,15 @@
                         <div class="mobile-navigation">
 
                             <nav>
-                                <li><a href="index.php">Acceuil</a> </li>
-                                <li><a href="hommes.php"> Hommes</a></li>
-                                <li><a href="femmes.php"> Femmes</a></li>
-                                <li><a href="unisexe.php"> Unisexe</a></li>
-                                <li><a href="about.php">A Propos</a> </li>
-                                <li><a href="faq.php">FAQs</a> </li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <ul class="mobile-menu">
+                                    <li><a href="index.php">Acceuil</a> </li>
+                                    <li><a href="hommes.php"> Hommes</a></li>
+                                    <li><a href="femmes.php"> Femmes</a></li>
+                                    <li><a href="unisexe.php"> Unisexe</a></li>
+                                    <li><a href="about.php">A Propos</a> </li>
+                                    <li><a href="faq.php">FAQs</a> </li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                </ul>
                             </nav>
 
                         </div>
