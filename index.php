@@ -286,20 +286,20 @@
                         <div class="banner__img">
                             <img src="img/products/img2.jpg" alt="">
                             <div class="banner__info">
-                                <h2><a href="#"></a>Black Xs <br> Paco Rabane</h2>
+                                <h2><a href="hommes.php"></a>Black Xs <br> Paco Rabane</h2>
                                 <div class="banner__button">
-                                    <a class="default__button btn__black" href="#">Commander</a>
+                                    <a class="default__button btn__black" href="hommes.php">Commander</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="banner__img">
-                            <img src="img/products/img4.jpg" alt="">
+                            <img src="img/products/img1.jpg" alt="">
                             <div class="banner__info">
-                                <h2><a href="#">Miss Dior <br> Cherie - Dior</a></h2>
+                                <h2><a href="femmes.php">Miss Dior <br> Cherie - Dior</a></h2>
                                 <div class="banner__button">
-                                    <a class="default__button btn__black" href="#">Commander</a>
+                                    <a class="default__button btn__black" href="femmes.php">Commander</a>
                                 </div>
                             </div>
                         </div>
@@ -962,7 +962,7 @@
                                 <!-- compteur -->
                             </div>
                             <div class="cowndown__banner__button">
-                                <a class="default__button" href="#">Commander</a>
+                                <a class="default__button" href="hommes.php">Commander</a>
                             </div>
                         </div>
                     </div>

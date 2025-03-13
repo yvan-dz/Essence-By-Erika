@@ -79,6 +79,46 @@
     }
 
 </style>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        function showInfo() {
+            let popup = document.querySelector("#info-popup"); // Utilisation de querySelector
+            if (popup) {
+                popup.style.display = "block";
+                setTimeout(() => popup.classList.add("show"), 10);
+            } else {
+                console.error("L'élément #info-popup n'existe pas dans le DOM.");
+            }
+        }
+
+        function closeInfo() {
+            let popup = document.querySelector("#info-popup");
+            if (popup) {
+                popup.classList.remove("show");
+                setTimeout(() => popup.style.display = "none", 300);
+            }
+        }
+
+        // Vérifier que le bouton de fermeture existe avant d'ajouter un event listener
+        let closeButton = document.querySelector("#info-close-btn");
+        if (closeButton) {
+            closeButton.addEventListener("click", closeInfo);
+        }
+
+        // Sélectionner les éléments des parfums sur index
+        document.querySelectorAll(".grid__wraper__img a, .grid__wraper__tittle a").forEach(item => {
+            item.addEventListener("click", function (event) {
+                event.preventDefault(); // Empêche la redirection
+                showInfo();
+            });
+        });
+
+        // Vérification : afficher une erreur si aucun élément n'est trouvé
+        if (!document.querySelector(".grid__wraper__img a") && !document.querySelector(".grid__wraper__tittle a")) {
+            console.warn("Aucun élément de parfum trouvé dans index.php.");
+        }
+    });
+</script>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
